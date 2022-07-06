@@ -1,5 +1,9 @@
 # Dayz-Vanilla-types 1.18
 
+![Screenshot_2](https://user-images.githubusercontent.com/80081504/177509009-10e8922a-d32a-4efa-9f29-714301be2632.png)
+
+
+
 ENG
 
 Edited the vanilla types for DayZ. To make it clearer where all items are and in what category.
