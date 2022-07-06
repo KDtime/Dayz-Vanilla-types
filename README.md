@@ -1,4 +1,4 @@
-# Dayz-Vanilla-types
+# Dayz-Vanilla-types 1.18
 
 ENG
 
